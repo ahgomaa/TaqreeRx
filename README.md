@@ -72,6 +72,6 @@ This project is licensed under the MIT License -
 
 ## Contact
 
-Dr. Ahmed Gomaa / ahmed.gomaa@scranotn.edu
+Dr. Ahmed Gomaa / ahmed.gomaa@scranton.edu
 
 ```
